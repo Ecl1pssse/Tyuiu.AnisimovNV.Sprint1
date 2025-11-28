@@ -1,5 +1,6 @@
 ﻿using System;
 using Tyuiu.AnisimovNV.Sprint1.Task1.V16.Lib;
+using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.AnisimovNV.Sprint1.Task1.V16
 {
