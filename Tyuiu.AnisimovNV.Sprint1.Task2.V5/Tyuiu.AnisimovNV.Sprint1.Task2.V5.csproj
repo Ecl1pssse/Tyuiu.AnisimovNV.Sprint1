@@ -5,6 +5,9 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>Tyuiu.AnisimovNV.Sprint1.Task2.V5</AssemblyName>
+    <AssemblyTitle>Tyuiu.AnisimovNV.Sprint1.Task2.V5</AssemblyTitle>
+    <RootNamespace>Tyuiu.AnisimovNV.Sprint1.Task2.V5</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

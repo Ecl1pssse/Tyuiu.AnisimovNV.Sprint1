@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,6 +7,9 @@
 
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
+    <AssemblyName>Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test</AssemblyName>
+    <AssemblyTitle>Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test</AssemblyTitle>
+    <RootNamespace>Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

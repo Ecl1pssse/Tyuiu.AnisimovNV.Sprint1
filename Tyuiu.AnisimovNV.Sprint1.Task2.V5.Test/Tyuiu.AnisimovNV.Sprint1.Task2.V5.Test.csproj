@@ -7,6 +7,9 @@
 
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
+    <AssemblyName>Tyuiu.AnisimovNV.Sprint1.Task2.V5.Test</AssemblyName>
+    <AssemblyTitle>Tyuiu.AnisimovNV.Sprint1.Task2.V5.Test</AssemblyTitle>
+    <RootNamespace>Tyuiu.AnisimovNV.Sprint1.Task2.V5.Test</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

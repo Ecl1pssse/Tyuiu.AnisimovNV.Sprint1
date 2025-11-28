@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>Tyuiu.AnisimovNV.Sprint1.Task1.V16</RootNamespace>
+    <AssemblyName>Tyuiu.AnisimovNV.Sprint1.Task1.V16</AssemblyName>
+    <AssemblyTitle>Tyuiu.AnisimovNV.Sprint1.Task1.V16</AssemblyTitle>
   </PropertyGroup>
 
   <ItemGroup>
