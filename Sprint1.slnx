@@ -1,9 +1,9 @@
 <Solution>
   <Folder Name="/dll/" />
   <Folder Name="/Task 0/">
-    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib.csproj" />
-    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test.csproj" Id="2d4abe21-71b7-4985-9baf-73b005b184cf" />
-    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20/Tyuiu.AnisimovNV.Sprint1.Task0.V20.csproj" />
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib.csproj" Id="64c11af7-d987-4eb6-80ae-ecd273a19431" />
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test.csproj" Id="83abea10-efbe-4f6e-a38a-efd887386a90" />
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20/Tyuiu.AnisimovNV.Sprint1.Task0.V20.csproj" Id="58a1646b-93a9-4ec8-8d4d-1c8c2e1e462d" />
   </Folder>
   <Folder Name="/Task 1/">
     <Project Path="Tyuiu.AnisimovNV.Sprint1.Task1.V16.Lib/Tyuiu.AnisimovNV.Sprint1.Task1.V16.Lib.csproj" Id="3c14fe8e-ba90-4448-90e9-99969b02d469" />
