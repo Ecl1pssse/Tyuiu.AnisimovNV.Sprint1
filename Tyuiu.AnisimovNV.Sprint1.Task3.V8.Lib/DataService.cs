@@ -8,7 +8,7 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task3.V8.Lib
         public double IncomeAmount(double deposit, double rate, double days)
         {
             double income = (deposit * rate * days) / (365 * 100);
-            return Math.Round(income, 2);
+            return Math.Round(income, 3); // Округляем до 3 знаков
         }
 
         // Методы интерфейса (заглушки)

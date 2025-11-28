@@ -21,6 +21,7 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task3.V8
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные,*");
             Console.WriteLine("* выполняет указанные расчёты и печатает результат на экране.            *");
+            Console.WriteLine("* Ответ округлите до 3 знаков после запятой.                             *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
@@ -39,12 +40,11 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task3.V8
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            // Используем метод IncomeAmount из интерфейса
             double income = ds.IncomeAmount(deposit, rate, days);
             double total = deposit + income;
 
-            Console.WriteLine($"Доход: {income:F2} руб.");
-            Console.WriteLine($"Сумма по окончании срока вклада: {total:F2} руб.");
+            Console.WriteLine($"Доход: {income:F3} руб."); // F3 для 3 знаков
+            Console.WriteLine($"Сумма по окончании срока вклада: {total:F3} руб.");
 
             Console.ReadLine();
         }
