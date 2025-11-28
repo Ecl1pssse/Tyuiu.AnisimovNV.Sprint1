@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/dll/" />
+  <Folder Name="/Task 1/">
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib.csproj" />
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test/Tyuiu.AnisimovNV.Sprint1.Task0.V20.Test.csproj" />
+    <Project Path="Tyuiu.AnisimovNV.Sprint1.Task0.V20/Tyuiu.AnisimovNV.Sprint1.Task0.V20.csproj" />
+  </Folder>
+</Solution>
