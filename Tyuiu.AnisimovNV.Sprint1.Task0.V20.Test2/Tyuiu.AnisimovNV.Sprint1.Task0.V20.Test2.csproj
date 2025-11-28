@@ -17,16 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib\Tyuiu.AnisimovNV.Sprint1.Task0.V20.Lib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\dll\tyuiu.cources.programming.interfaces-main\tyuiu.cources.programming.interfaces.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
