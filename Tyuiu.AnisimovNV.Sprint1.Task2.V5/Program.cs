@@ -32,7 +32,7 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task2.V5
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            int result = ds.Calculate(side);
+            int result = ds.CalculateSideSquare(side);
             Console.WriteLine($"* Площадь поверхности куба = {result}");
 
             Console.WriteLine("***************************************************************************");
