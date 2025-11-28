@@ -21,7 +21,7 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task7.V11
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет математическое выражение         *");
             Console.WriteLine("* по исходным значениям данных, вводимых пользователем.                  *");
-            Console.WriteLine("* Ответ округлите до 3 знаков после запятой.                             *");
+            Console.WriteLine("* Оттвет округлите до 3 знаков после запятой.                             *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
