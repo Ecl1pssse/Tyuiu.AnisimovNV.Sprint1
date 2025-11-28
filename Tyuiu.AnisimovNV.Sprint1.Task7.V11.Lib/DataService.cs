@@ -14,4 +14,4 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task7.V11.Lib
             return Math.Round(result, 3, MidpointRounding.AwayFromZero);
         }
     }
-}}
+}
