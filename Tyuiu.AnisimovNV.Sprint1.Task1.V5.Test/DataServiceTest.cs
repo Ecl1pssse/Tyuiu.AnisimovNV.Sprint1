@@ -10,7 +10,6 @@ namespace Tyuiu.AnisimovNV.Sprint1.Task1.V16.Test
         {
             DataService ds = new DataService();
             double result = ds.Calculate(2, 3, 4);
-            // 2 * 5 * 3 + 2 * 4 = 30 + 8 = 38
             Assert.Equal(38, result);
         }
     }
